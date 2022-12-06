@@ -13,10 +13,10 @@
   well hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+ #### :woman_technologist: About Me : I am a Flutter Developer from Nepal 🇳🇵.
 </div>
----
 
-#### :woman_technologist: About Me : I am a Flutter Developer from Nepal 🇳🇵.
+
 
 <!--
 **SarayuGautam/SarayuGautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
