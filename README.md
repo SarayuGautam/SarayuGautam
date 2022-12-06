@@ -1,5 +1,13 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif?cid=ecf05e47g5nhvhr29mdnvwe6nbbw4a7awzk2cvikryiqwjs2&rid=giphy.gif&ct=s)" width="100"/>
+  <img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sarayu-gautam-53a92b246/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@sarayugautam1">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </div>
 
 <!--
