@@ -14,9 +14,9 @@
 </h3>
 </div>
 
-- 👩‍💼 I’m working as a Flutter Freelancer, building mobile applications.
+- 👩‍💼 I’m working as a Flutter freelancer, building mobile applications.
 
-- 🌱 I'm currently Exploring Typescript and GraphQL.
+- 🌱 I'm currently exploring Typescript and GraphQL.
 
 - 📙 In my free time, I read books. I can recommend if you want 🙃 
 
