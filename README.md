@@ -15,13 +15,13 @@
 </h3>
 </div>
 
-- :telescope: I’m working as a Flutter Freelancer, building mobile applications.
+- 👩‍💼 I’m working as a Flutter Freelancer, building mobile applications.
 
-- :seedling: I'm currently Exploring Typescript and GraphQL.
+- 🌱 I'm currently Exploring Typescript and GraphQL.
 
-- 📙: In my free time, I read books. I can recommend if you want :)  
+- 📙 In my free time, I read books. I can recommend if you want 🙃 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarayu-gautam-53a92b246/)
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarayu-gautam-53a92b246/)
 
 <!--
 **SarayuGautam/SarayuGautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
