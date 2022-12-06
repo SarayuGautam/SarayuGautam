@@ -15,11 +15,11 @@
 </h3>
 </div>
 
-- :telescope: I’m working as a Flutter Freelancer building mobile applications.
+- :telescope: I’m working as a Flutter Freelancer, building mobile applications.
 
-- :seedling: Exploring Typescript and GraphQL.
+- :seedling: I'm currently Exploring Typescript and GraphQL.
 
-- :zap: In my free time, I read books. I can recommend if you want :)  
+- 📙: In my free time, I read books. I can recommend if you want :)  
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarayu-gautam-53a92b246/)
 
