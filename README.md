@@ -14,11 +14,11 @@
 </h3>
 </div>
 
-- 👩‍💼 I’m working on building mobile applications.
+- 👩‍💼 I’m working at a Corporate as an Associate Software Engineer.
 
-- 🌱 I'm currently exploring Typescript and GraphQL.
+- 🌱 I'm currently exploring Data Engineering.
 
-- 📙 In my free time, I read books. I can recommend if you want 🙃 
+- 📙 In my free time, I read books 🙃 
 
 ---
 
