@@ -16,7 +16,7 @@
 
 - 👩‍💼 I’m working at a Corporate as an Associate Software Engineer.
 
-- 🌱 I'm currently exploring Data Engineering.
+- 🌱 I'm currently exploring Data Engineering and Data Analysis.
 
 - 📙 In my free time, I read books 🙃 
 
