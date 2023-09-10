@@ -14,7 +14,7 @@
 </h3>
 </div>
 
-- 👩‍💼 I’m working at a Corporate as an Associate Software Engineer.
+- 👩‍💼 I’m currently working at a Corporate in Retail Data Analytics.
 
 - 🦋 I'm a Flutter Developer by experience.
 
