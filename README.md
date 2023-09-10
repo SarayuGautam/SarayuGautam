@@ -18,7 +18,7 @@
 
 - 🦋 I'm a Flutter Developer by experience.
 
-- 📊 I'm currently exploring Data Engineering and Data Analysis.
+- 📊 I'm exploring Data Engineering and Data Analysis.
 
 - 📙 In my free time, I read books 🙃 
 
