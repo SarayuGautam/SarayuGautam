@@ -9,14 +9,16 @@
   </a>
 </div>
 <h3>
-  well hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am a Flutter Developer from Nepal 🇳🇵.
+  Hello
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am a Software Engineer from Nepal 🇳🇵.
 </h3>
 </div>
 
 - 👩‍💼 I’m working at a Corporate as an Associate Software Engineer.
 
-- 🌱 I'm currently exploring Data Engineering and Data Analysis.
+- 🦋 I'm a Flutter Developer by experience.
+
+- 📊 I'm currently exploring Data Engineering and Data Analysis.
 
 - 📙 In my free time, I read books 🙃 
 
