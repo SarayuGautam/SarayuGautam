@@ -14,11 +14,13 @@
 </h3>
 </div>
 
-- 👩‍💼 I’m currently working at a Corporate in Retail Data Analytics.
+- 💼 Currently I work as a Kiosk Trainer at WLiT (Women Leaders in Technology)
 
-- 🦋 I'm a Flutter Developer by experience.
+- 👩‍💼 I have a year of experience in Corporate as Data Engineer for Retail Data Analytics.
 
-- 📊 I'm exploring Data Engineering and Data Analysis.
+- 🦋 I'm a Flutter Developer by passion.
+
+- 📊 I'm preparing for my Masters in Computer Engineering.
 
 - 📙 In my free time, I read books 🙃 
 
