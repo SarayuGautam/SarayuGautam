@@ -18,7 +18,7 @@
 
 - 👩‍💼 I have a year of experience in Corporate as Data Engineer for Retail Data Analytics.
 
-- 🦋 I'm a Flutter Developer by passion.
+- 🦋 I'm a Flutter Developer judging by number of apps I've developed.
 
 - 📊 I'm preparing for my Masters in Computer Engineering.
 
