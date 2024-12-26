@@ -20,7 +20,7 @@
 
 - 🦋 I'm a Flutter Developer judging by number of apps I've developed.
 
-- 📊 I'm preparing for my Masters in Computer Engineering.
+- 📊 I'm pursuing my Masters in Computer Engineering.
 
 - 📙 In my free time, I read books 🙃 
 
