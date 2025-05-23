@@ -14,7 +14,9 @@
 </h3>
 </div>
 
-- 💼 Currently I work as a Kiosk Trainer at WLiT (Women Leaders in Technology)
+- 👩‍🏫 I teach Distributed Systems and Cloud Computing at Herald College, Kathmandu
+
+- 💼 I also work as a Kiosk Trainer at WLiT (Women Leaders in Technology)
 
 - 👩‍💼 I have a year of experience in Corporate as Data Engineer for Retail Data Analytics.
 
